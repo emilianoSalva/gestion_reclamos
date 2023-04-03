@@ -1,0 +1,17 @@
+setup.py
+ejemploDjango/__init__.py
+ejemploDjango/asgi.py
+ejemploDjango/settings.py
+ejemploDjango/urls.py
+ejemploDjango/wsgi.py
+hola_mudo/__init__.py
+hola_mudo/admin.py
+hola_mudo/apps.py
+hola_mudo/models.py
+hola_mudo/tests.py
+hola_mudo/urls.py
+hola_mudo/views.py
+recursos.egg-info/PKG-INFO
+recursos.egg-info/SOURCES.txt
+recursos.egg-info/dependency_links.txt
+recursos.egg-info/top_level.txt
